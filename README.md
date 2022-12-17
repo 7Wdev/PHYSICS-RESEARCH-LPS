@@ -1,2 +1,2 @@
 # PHYSICS-RESEARCH-LPS
-Ade, Rula, Adan.
+Ade, Rula, Ward.
