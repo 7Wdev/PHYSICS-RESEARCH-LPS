@@ -14,3 +14,56 @@
 
 ## kelvin ship waves:
 - (https://he.wikipedia.org/wiki/%D7%92%D7%9C%D7%99_%D7%94%D7%A1%D7%99%D7%A8%D7%94_%D7%A9%D7%9C_%D7%A7%D7%9C%D7%95%D7%95%D7%99%D7%9F)
+
+## khan academy waves:
+- (https://youtube.com/playlist?list=PL2ub1_oKCn7qNvFIdeEiyJN8PgqD-TbUF)
+
+## ma5 number:
+- (https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF_%D9%85%D8%A7%D8%AE)
+
+## sonic boom:
+- (https://eureka.org.il/item/22823/%D7%9E%D7%94%D7%95-%D7%91%D7%95%D7%9D-%D7%A2%D7%9C-%D7%A7%D7%95%D7%9C%D7%99)
+
+## the physics hypertext book:
+- (https://physics.info/waves/#:~:text=A%20disturbance%20%2C%20in%20the%20sense,measurable%20quantity%20at%20some%20location)
+
+## research by f.moisy:
+- (http://www.fast.u-psud.fr/~moisy/wake/)
+
+## video for presentation showing breaking the sound barier:
+- (https://youtu.be/5ev3S9bDNjE)
+
+## kelvin phenomenon explaination:
+- (https://youtu.be/QC3CjBZLHXs)
+
+## superposition:
+- (https://salfordacoustics.co.uk/sound-waves/superposition)
+
+## desmos interference simulation:
+- (https://www.desmos.com/calculator/nzqrbmw6tu?embed)
+
+## standing wave desmos simulation:
+- (https://www.desmos.com/calculator/k1y9lu26us)
+
+## dispersion:
+- (https://www.youtube.com/watch?v=-Xu0ZyGt3ZM)
+
+## fourier Transform a brief visual introduction:
+- (https://www.youtube.com/watch?v=spUNpyF58BY)
+
+## geogebra water wave simulation:
+- (https://www.geogebra.org/m/chyp4y99)
+
+## derivarion of hyperbolic functions:
+- (https://www.youtube.com/watch?v=NVC1w4_ulzI)
+
+## dispersion simulation geogebra:
+- (https://www.geogebra.org/classic/kBhydkWC)
+
+## water waves 3d simulation geogebra:
+- (https://www.geogebra.org/3d/wbtfsmxq)
+
+## real water simulation:
+- (https://7w-courseware.42web.io/physics/research/index.html)
+
+
