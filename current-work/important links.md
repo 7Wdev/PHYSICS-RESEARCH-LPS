@@ -33,6 +33,9 @@
 ## video for presentation showing breaking the sound barier:
 - (https://youtu.be/5ev3S9bDNjE)
 
+## video for presentation showing kelvin:
+- (https://www.youtube.com/watch?v=oU40tGVBvQc&ab_channel=Mart%C3%ADnMonteiro)
+
 ## kelvin phenomenon explaination:
 - (https://youtu.be/QC3CjBZLHXs)
 
