@@ -66,4 +66,25 @@
 ## real water simulation:
 - (https://7w-courseware.42web.io/physics/research/index.html)
 
+## phase velocity and group velocity:
+- (https://youtu.be/EIqKG5TiSYs)
+
+## boat wakes formation:
+- (https://youtu.be/95sQcSulRFM)
+
+## surface waves:
+- (https://www.feynmanlectures.caltech.edu/I_51.html#Ch51-S4)
+
+## kelvin V simulaton:
+- (https://editor.p5js.org/aatish/full/bDiykicsC)
+- (https://observablehq.com/@rreusser/dispersion-in-water-surface-waves)
+
+## gpt4 explaination:
+- (https://chat.forefront.ai/share/6yhh23twucjecvzv)
+- (https://chat.forefront.ai/share/zn8nj3clu3ng9efc)
+
+## real bare metal explanation:
+- (https://wikiwaves.org/Ship_Kelvin_Wake)
+- (https://farbeinf.de/static_html/KWake.html)
+- (https://sites.imsa.edu/hadron/2021/11/07/the-physics-of-water-wakes/)
 
