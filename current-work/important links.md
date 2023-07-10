@@ -1,7 +1,7 @@
 # LINKS
 
 ## simple introduction to mechanical waves:
-- (http://electron9.phys.utk.edu/optics421/modules/m1/mechwaves.html)
+- (http://electron9.phys.utk.edu/optics421/modules/m1/mechwaves.htm)
 
 ## the science behind water wakes:
 - (https://sites.imsa.edu/hadron/2021/11/07/the-physics-of-water-wakes/)
@@ -80,7 +80,10 @@
 
 ## kelvin V simulaton:
 - (https://editor.p5js.org/aatish/full/bDiykicsC)
+- (https://editor.p5js.org/aatish/sketches/4kJYdGd37)
 - (https://observablehq.com/@rreusser/dispersion-in-water-surface-waves)
+- (https://editor.p5js.org/aatish/sketches/T-jUtCths)
+- (https://www.youtube.com/watch?v=dAH7t6ghBOE&t=2s)
 
 ## gpt4 explaination:
 - (https://chat.forefront.ai/share/6yhh23twucjecvzv)
@@ -91,3 +94,6 @@
 - (https://farbeinf.de/static_html/KWake.html)
 - (https://sites.imsa.edu/hadron/2021/11/07/the-physics-of-water-wakes/)
 
+## argue about the angle constancy:
+- (https://www.science.org/content/article/lord-kelvin-wipes-out-speed-boat-wakes)
+- (https://arxiv.org/abs/1309.6751)
